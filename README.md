@@ -50,7 +50,7 @@ Confusion matrix and model comparison boxplot are included in the notebook outpu
 # 1. Clone the repo / download the folder
 # 2. Make sure sonar_data.csv is in the same folder as the notebook
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
-jupyter notebook Rock_vs_Mine_Prediction_v2.ipynb
+jupyter notebook Rock_vs_Mine_Prediction.ipynb
 # Run all cells top to bottom
 ```
 
